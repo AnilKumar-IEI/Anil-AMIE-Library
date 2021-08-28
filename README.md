@@ -1,5 +1,5 @@
 # Anil-AMIE-Library
-Library Management System Project for AMIE 2020
+Library Management System Project for AMIE 2021
 Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
 Open Terminal and Execute Following Commands :
 python -m pip install -r requirements. txt
